@@ -10,16 +10,4 @@
   <display-name>Welcome to Tomcat</display-name>
   <description>Welcome to Tomcat</description>
 
-
-<servlet>  
-<servlet-name>servlet</servlet-name>  
-<servlet-class>applistar.class</servlet-class>  
-</servlet>  
-  
-<servlet-mapping>  
-<servlet-name>servlet</servlet-name>  
-<url-pattern>/servlet/applistar</url-pattern>  
-</servlet-mapping>  
-  
-
 </web-app>
